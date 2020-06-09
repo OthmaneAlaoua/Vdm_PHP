@@ -1,0 +1,12 @@
+{
+  "name": "faker/faker",
+  "authors": [
+    {
+      "name": "othmane",
+      "email": "othmane@othmane.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.5"
+  }
+}
